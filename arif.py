@@ -21,7 +21,7 @@ if(selected == "Home") :
    
 if(selected == "Non-Inverting Amplifier") :
     st.title("Contoh Rangkaian Non-Inverting Amplifier")
-    st.image("fixed.jpeg", width = 500)
+    st.image("fixed.jpg", width = 500)
     st.subheader("Perhitungan Vo dan Sinyal Output pada Rangkaian Non-Inverting Amplifier")
 
     a=st.number_input("Masukkan Nilai VCC (Volt)",0)
@@ -70,7 +70,7 @@ if(selected == "Non-Inverting Amplifier") :
 
 if(selected == "Inverting Amplifier") :
     st.title("Contoh Rangkaian Inverting Amplifier")
-    st.image("fixed1.jpeg", width = 500)
+    st.image("fixed1.jpg", width = 500)
     st.subheader("Perhitungan Vo dan Sinyal Output pada Rangkaian Inverting Amplifier")
 
     a=st.number_input("Masukkan Nilai VCC (Volt)",0)
