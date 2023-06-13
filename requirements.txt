@@ -1,7 +1,7 @@
 numpy
 matplotlib
 streamlit
-math
+python-math
 pandas
-streamlit_option_menu
+streamlit-option-menu
 pillow
